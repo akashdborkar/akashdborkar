@@ -11,8 +11,9 @@
 
 💻 I’m a passionate IT professional with a strong focus on continuous learning and knowledge sharing.<br/>
 🧠 I enjoy working with modern technologies, focusing on efficient code and smart development practices.<br/>
-🚀 Currently working on Optimizely CMS, Sitecore, Sitecore XM CLoud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
-🌱 Challenges are learning in disguise - currently exploring React, Next.js, Advance concepts of headless implementation for Optimizely CMS|Sitecore XM Cloud.
+🚀 Currently working on Optimizely CMS, Sitecore, Sitecore XM Cloud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
+🧠 Currently exploring React, Next.js, Advance concepts of headless implementation for Optimizely CMS | Sitecore XM Cloud.<br/>
+🌱 Akash believes in getting comfortable with being uncomfortable as challenges are learning in disguise. 
 
 ---
 
@@ -64,5 +65,5 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 - 📧 Email: aakashborkar76@gmail.com
 - 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/akashdborkar/)
 
-- 
+
 Keep Sharing and Happy Learning ..!!😊

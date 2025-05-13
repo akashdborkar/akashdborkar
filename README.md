@@ -9,10 +9,10 @@
 
 ---
 
-💻 I’m a passionate IT professional with a strong focus on continuous learning and knowledge sharing..<br/>
-🧠 I enjoy working with modern technologies, focusing on clean architecture, efficient code, and smart development practices.<br/>
-🚀 Currently working with Optimizely CMS, Sitecore, Sitecore XM CLoud, Sitecore Content Migration, Headless, Next.Js, .Net Core tech <br/>
-🌱 Challenges are learning in disguise - currently exploring Next.js, Advance haedless concepts of Optimizely CMS/Sitecore XM Cloud.
+💻 I’m a passionate IT professional with a strong focus on continuous learning and knowledge sharing.<br/>
+🧠 I enjoy working with modern technologies, focusing on efficient code and smart development practices.<br/>
+🚀 Currently working on Optimizely CMS, Sitecore, Sitecore XM CLoud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
+🌱 Challenges are learning in disguise - currently exploring React, Next.js, Advance concepts of headless implementation for Optimizely CMS|Sitecore XM Cloud.
 
 ---
 
@@ -20,7 +20,7 @@
 
 - **CMS:** Optimizely CMS (12), Optimizely CMS (Headless) | Sitecore (9.3, 10.1, 10.2), Sitecore XM Cloud
 - **Backend:** ASP.NET, ASP.NET MVC, ASP.NET Core, Web API, Entity Framework
-- **Frontend**: JS, jQuery, React(basic), Next.Js
+- **Frontend**: jQuery, React (basics), Next.Js
 - **Languages:** C#, HTML5, JavaScript, LINQ
 - **Database:** SQL
 - **DevOps & Tools:** Docker, Azure DevOps, Git, Jira
@@ -32,28 +32,19 @@
 
 Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned for more insightful posts coming your way!
 
-### 🛰️ **From Personal Blog**
-
-- **_Coming Soon_** – Stay tuned for new content!
-
-### 🛰️ **From Perficient Blogs**
-
 #### 🔹 1. Sitecore Blogs
 
-- 🛠️ **[Extending General Link for Content Editor](https://blogs.perficient.com/2024/02/07/extending-general-link-for-content-editor-mode/)**  
-  🗓️ *February 7, 2024* – Improve link flexibility for content authors in Sitecore.
+- 🛠️ **[Sitecore PowerShell commands – XM Cloud Content Migration](https://blogs.perficient.com/2025/05/07/xm-cloud-content-migration-powershell-commands/)**  
+  🗓️ *May 7, 2025* – Snippets of most widely used SPE commands in Sitecore Content Migration.
 
-- 🛠️ **[Extending General Link for Experience Editor](https://blogs.perficient.com/2024/02/07/extending-general-link-for-experience-editor-mode/)**  
-  🗓️ *February 7, 2024* – Enable richer editing experience in Experience Editor.
-
-- 🔄 **[Alternate Approach for Experience Editor Extension](https://blogs.perficient.com/2024/02/21/extending-general-link-for-experience-editor-alternate-approach/)**  
-  🗓️ *February 21, 2024* – A workaround method for general link extension.
+- 🛠️ **[Sitecore XM Cloud Content Migration: Plan and Strategy](https://blogs.perficient.com/2025/05/06/xm-cloud-content-migration-plan/)**  
+  🗓️ *May 6, 2025* – Sitecore Content Migration from Sitecore 9x to Sitecore XM Cloud.
 
 
-#### 💻 3. PowerShell Scripts
+#### 💻 2. Optimizely CMS
 
-- 💡 **[Bypassing PowerShell File Import Issue](https://blogs.perficient.com/2023/12/05/bypassing-the-powershell-file-import-issue/)**  
-  🗓️ *December 5, 2023* – Tackle import errors when executing scripts securely.
+- 💡 **[How to get a list of properties of a Content Type defined in Optimizely](https://blogs.perficient.com/2022/07/25/how-to-get-a-list-of-properties-of-a-content-type-defined-in-optimizely/)**  
+  🗓️ *July 25, 2022* – Getting list of properties associated with a given Content Type in Optimizely CMS.
 
 
 ---
@@ -70,9 +61,8 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 
 ## 📫 Get in Touch
 
-I'm always open to collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
 - 📧 Email: aakashborkar76@gmail.com
-- 💬 LinkedIn: [Follow me on LinkedIn]([https://www.linkedin.com/in/akashdborkar/])
+- 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/akashdborkar/)
 
 - 
 Keep Sharing and Happy Learning ..!!😊

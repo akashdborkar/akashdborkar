@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Akash Borkar
 
 <p>
-  💼 Senior Technical Consultant | 🛠 Sitecore, Optimizely CMS | 💡 .NET Core | 📍 Nagpur, Maharashtra, India
+  💼 Senior Technical Consultant | 🛠 Sitecore, Optimizely CMS Headless | 💡 .NET Core | 📍 Nagpur, Maharashtra, India
 </p>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Coming%20Soon-808080?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/akashdborkar)
@@ -11,7 +11,7 @@
 
 💻 I’m a passionate IT professional with a strong focus on continuous learning and knowledge sharing.<br/>
 🧠 I enjoy working with modern technologies, focusing on efficient code and smart development practices.<br/>
-🚀 Currently working on Optimizely CMS, Sitecore, Sitecore XM Cloud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
+🚀 Hands On CMS Frameworks: Optimizely CMS, Sitecore, Sitecore XM Cloud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
 🧠 Currently exploring React, Next.js, Advance concepts of headless implementation for Optimizely CMS | Sitecore XM Cloud.<br/>
 🌱 Akash believes in getting comfortable with being uncomfortable as challenges are learning in disguise. 
 
@@ -62,7 +62,7 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 
 ## 📫 Get in Touch
 
-- 📧 Email: aakashborkar76@gmail.com
+- 📧 Email: aakashborkar@yahoo.in
 - 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/akashdborkar/)
 
 

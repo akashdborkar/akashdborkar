@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Akash Borkar
 
 <p>
-  💼 Senior Technical Consultant | 🛠 Sitecore, Optimizely CMS Headless | 💡 .NET Core | 📍 Nagpur, Maharashtra, India
+  💼 Lead Technical Consultant | 🛠 Sitecore, Optimizely CMS Headless | 💡 .NET Core | 📍 Nagpur, Maharashtra, India
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Coming%20Soon-808080?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/akashdborkar)
-[![Perficient Blogs](https://img.shields.io/badge/-Perficient%20Technical%20Blogs-808080?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.perficient.com/author/aborkar)
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Coming%20Soon-808080?style=for-the-badge&logo=firefox&logoColor=white)](https://akashdborkar.vercel.app/)
+[![Perficient Blogs](https://img.shields.io/badge/-Perficient%20Technical%20Blogs-808080?style=for-the-badge&logo=hashnode&logoColor=white)]([https://blogs.perficient.com/author/aborkar](https://akashdborkar.vercel.app/blog))
 
 ---
 

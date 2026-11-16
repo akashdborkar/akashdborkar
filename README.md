@@ -4,15 +4,15 @@
   💼 Lead Technical Consultant | 🛠 Sitecore, Optimizely CMS Headless | 💡 .NET Core | 📍 Nagpur, Maharashtra, India
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Coming%20Soon-808080?style=for-the-badge&logo=firefox&logoColor=white)](https://akashdborkar.vercel.app/)
-[![Perficient Blogs](https://img.shields.io/badge/-Perficient%20Technical%20Blogs-808080?style=for-the-badge&logo=hashnode&logoColor=white)]([https://blogs.perficient.com/author/aborkar](https://akashdborkar.vercel.app/blog))
+[![Portfolio](https://img.shields.io/badge/-Akash%20Borkar%20Optimizely%20CMS-ccffcc?style=for-the-badge&logo=firefox&logoColor=white)](https://akashdborkar.vercel.app/)
+[![Perficient Blogs](https://img.shields.io/badge/%20Technical%20Blogs-ccffcc?style=for-the-badge&logo=hashnode&logoColor=white)](https://akashdborkar.vercel.app/blog)
 
 ---
 
-💻 I’m a passionate IT professional with a strong focus on continuous learning and knowledge sharing.<br/>
+💻 I’m a AI led passionate IT professional with a strong focus on continuous learning and knowledge sharing.<br/>
 🧠 I enjoy working with modern technologies, focusing on efficient code and smart development practices.<br/>
-🚀 Hands On CMS Frameworks: Optimizely CMS, Sitecore, Sitecore XM Cloud, Content Migration, Headless, Next.Js, .Net Core etc<br/>
-🧠 Currently exploring React, Next.js, Advance concepts of headless implementation for Optimizely CMS | Sitecore XM Cloud.<br/>
+🚀 Hands On CMS Frameworks: Optimizely CMS 11, 12 and 13, Sitecore AI, Sitecore XM Cloud, Content Migration, Headless, Next.Js, .Net8/10<br/>
+🧠 Build Digital Web experiences using modren React, Next.js, Headless implementation for Optimizely CMS 12 | Sitecore XM Cloud.<br/>
 🌱 Akash believes in getting comfortable with being uncomfortable as challenges are learning in disguise. 
 
 ---
